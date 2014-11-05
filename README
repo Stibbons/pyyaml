@@ -33,3 +33,16 @@ Submit bug reports and feature requests to the PyYAML bug tracker:
 PyYAML is written by Kirill Simonov <xi@resolvent.net>.  It is released
 under the MIT license. See the file LICENSE for more details.
 
+
+
+============================================================
+
+Imported from http://svn.pyyaml.org/pyyaml/
+
+Cloned by:
+
+    git svn clone --prefix=origin/ --stdlayout http://svn.pyyaml.org/pyyaml/ .
+
+3.11 Imported by downloading the tar file:
+
+    http://pyyaml.org/download/pyyaml/PyYAML-3.11.tar.gz

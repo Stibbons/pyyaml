@@ -46,3 +46,7 @@ Cloned by:
 3.11 Imported by downloading the tar file:
 
     http://pyyaml.org/download/pyyaml/PyYAML-3.11.tar.gz
+
+Package built with
+
+    python setup.py sdist
